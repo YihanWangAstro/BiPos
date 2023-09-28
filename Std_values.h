@@ -2,7 +2,7 @@
 #define STD_NLIB 10000000.0
 #define STD_MMIN 0.08
 #define STD_MMAX 150.0
-
+#define STD_ALPHA 1.0
 #define STD_BETA 2.0
 #define STD_MECLMIN 5.0
 #define STD_RH 0.1
